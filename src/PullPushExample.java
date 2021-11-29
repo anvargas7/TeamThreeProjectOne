@@ -6,5 +6,7 @@ public class PullPushExample {
 		System.out.println("Good Morning...");
 		String name = "Ani";
 		String name2 = "Andy";
+		
+		int year = 2021;
 	}
 }
